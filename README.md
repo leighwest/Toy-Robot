@@ -12,7 +12,7 @@ To run the application:
 i.e. to run the application using one of the example test instructions in the root directory:
 `gradle run --args='Test6Instructions.txt'`
 
-To run the applications test suite:
+To run the application's test suite:
 `gradle test`
 
 ## Enjoy!
